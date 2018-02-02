@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pin ball 2    kadai", "pin ball 2    kadai.csproj", "{E483382A-E7F7-F554-3866-D4165C161523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pin ball 2    kadai.Plugins", "pin ball 2    kadai.Plugins.csproj", "{E460FE2C-F50C-BDE7-442D-97F367D0F12E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pin ball 2    kadai.Editor.Plugins", "pin ball 2    kadai.Editor.Plugins.csproj", "{406C115B-682B-48ED-0950-946F36FA5F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E483382A-E7F7-F554-3866-D4165C161523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E483382A-E7F7-F554-3866-D4165C161523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E483382A-E7F7-F554-3866-D4165C161523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E483382A-E7F7-F554-3866-D4165C161523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E460FE2C-F50C-BDE7-442D-97F367D0F12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E460FE2C-F50C-BDE7-442D-97F367D0F12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E460FE2C-F50C-BDE7-442D-97F367D0F12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E460FE2C-F50C-BDE7-442D-97F367D0F12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406C115B-682B-48ED-0950-946F36FA5F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406C115B-682B-48ED-0950-946F36FA5F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406C115B-682B-48ED-0950-946F36FA5F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406C115B-682B-48ED-0950-946F36FA5F72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
